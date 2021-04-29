@@ -1,0 +1,12 @@
+.contenedor{
+    width: 30%;
+    background-color:whitesmoke;
+    margin: 1%;
+}
+.contenedor img{
+    width: 100%;
+    height: 80%;
+}
+.pelis{
+    text-decoration: none;
+}

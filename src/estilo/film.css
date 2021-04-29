@@ -1,0 +1,20 @@
+body{
+    background-color: darkslategrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.contenedor1{
+    text-align: center;
+}
+.subcontenedor1 h4{
+    color: white;
+    text-align:center;
+}
+.subcontenedor1 p{
+    color: white;
+    text-align:start;
+    margin-left: 2%;
+}
